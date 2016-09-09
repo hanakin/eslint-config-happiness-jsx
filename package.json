@@ -1,14 +1,13 @@
 {
-  "name": "eslint-config-happiness-jsx",
-  "description": "JavaScript Happiness Style JSX support - ESLint Shareable Config",
-  "version": "1.2.1",
+  "name": "eslint-config-sane-jsx",
+  "description": "JavaScript Sane Style JSX support - ESLint Shareable Config",
+  "version": "1.0.0",
   "author": {
-    "name": "Wes Todd",
-    "email": "wes@wesleytodd.com",
-    "url": "http://wesleytodd.com/"
+    "name": "Mike Miday",
+    "email": "hanakin.dev@gmail.com"
   },
   "bugs": {
-    "url": "https://github.com/wesleytodd/eslint-config-happiness-jsx/issues"
+    "url": "https://github.com/hanakin/eslint-config-sane-jsx/issues"
   },
   "peerDependencies": {
     "eslint": "^2.1.0",
@@ -19,10 +18,10 @@
     "eslint-plugin-react": ">=2.7.1",
     "tape": "^4.0.0"
   },
-  "homepage": "https://github.com/wesleytodd/eslint-config-happiness-jsx",
+  "homepage": "https://github.com/wesleytodd/eslint-config-sane-jsx",
   "keywords": [
     "standard",
-    "happiness",
+    "sane",
     "style checker",
     "code style",
     "code checker",
@@ -45,16 +44,16 @@
     "checker",
     "code standards",
     "JavaScript Standard Style",
-    "JavaScript Happiness Style",
+    "JavaScript Sane Style",
     "standard style",
-    "happiness style",
+    "sane style",
     "jsx"
   ],
   "license": "MIT",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/wesleytodd/eslint-config-happiness-jsx.git"
+    "url": "git://github.com/hanakin/eslint-config-sane-jsx.git"
   },
   "scripts": {
     "test": "tape test/*.js"
