@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-sane-jsx",
   "description": "JavaScript Sane Standard Style JSX support - ESLint Shareable Config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": {
     "name": "Mike Miday",
     "email": "hanakin.dev@gmail.com"
