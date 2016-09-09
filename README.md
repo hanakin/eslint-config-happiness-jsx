@@ -10,11 +10,11 @@
 [downloads-image]: https://img.shields.io/npm/dm/eslint-config-sane-jsx.svg
 [downloads-url]: https://npmjs.org/package/eslint-config-sane-jsx
 
-#### An ESLint [Shareable Config](http://eslint.org/docs/developer-guide/shareable-configs) for JSX support in [JavaScript Sane Style](https://github.com/hanakin/sane-standard)
+#### An ESLint [Shareable Config](http://eslint.org/docs/developer-guide/shareable-configs) for JSX support in [JavaScript Sane Standard  Style](https://github.com/hanakin/js-sane-standard)
 
-This module is for advanced users. You probably want to use [`sane-standard`](https://github.com/hanakin/sane-standard) instead :)
+This module is for advanced users. You probably want to use [`js-sane-standard`](https://github.com/hanakin/js-sane-standard) instead :)
 
-[![js-sane-standard-style](https://cdn.rawgit.com/hanakin/sane-standard/master/badge.svg)](https://github.com/hanakin/sane-standard)
+[![js-sane-standard-style](https://cdn.rawgit.com/hanakin/js-sane-standard/master/badge.svg)](https://github.com/hanakin/js-sane-standard)
 
 ## Install
 
@@ -61,7 +61,7 @@ You can override settings from the shareable config by adding them directly into
 ### Looking for something easier than this?
 
 The easiest way to use JavaScript Happiness Style to check your code is to use the
-[`sane-standard`](https://github.com/hanakin/sane-standard) package. This comes with a global
+[`js-sane-standard`](https://github.com/hanakin/js-sane-standard) package. This comes with a global
 Node command line program (`sane-standard`) that you can run or add to your `npm test` script
 to quickly check your style.
 
@@ -70,22 +70,22 @@ to quickly check your style.
 Use this in one of your projects? Include one of these badges in your readme to
 let people know that your code is using the happiness style.
 
-[![js-sane-standard-style](https://cdn.rawgit.com/hanakin/sane-standard/master/badge.svg)](https://github.com/hanakin/sane-standard)
+[![js-sane-standard-style](https://cdn.rawgit.com/hanakin/js-sane-standard/master/badge.svg)](https://github.com/hanakin/js-sane-standard)
 
 ```markdown
-[![js-sane-standard-style](https://cdn.rawgit.com/hanakin/sane-standard/master/badge.svg)](https://github.com/hanakin/sane-standard)
+[![js-sane-standard-style](https://cdn.rawgit.com/hanakin/js-sane-standard/master/badge.svg)](https://github.com/hanakin/js-sane-standard)
 ```
 
-[![js-sane-standard-style](https://img.shields.io/badge/code%20style-sane-standard-brightgreen.svg)](https://github.com/hanakin/sane-standard)
+[![js-sane-standard-style](https://img.shields.io/badge/code%20style-js-sane-standard-brightgreen.svg)](https://github.com/hanakin/js-sane-standard)
 
 ```markdown
-[![js-sane-standard-style](https://img.shields.io/badge/code%20style-sane-standard-brightgreen.svg)](https://github.com/hanakin/sane-standard)
+[![js-sane-standard-style](https://img.shields.io/badge/code%20style-js-sane-standard-brightgreen.svg)](https://github.com/hanakin/js-sane-standard)
 ```
 
 ## Learn more
 
 For the full listing of rules visit the main
-[JavaScript Sane Style repo](https://github.com/hanakin/sane-standard).
+[JavaScript Sane Standard Style repo](https://github.com/hanakin/js-sane-standard).
 
 ## License
 
