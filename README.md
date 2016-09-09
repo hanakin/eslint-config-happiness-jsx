@@ -85,7 +85,7 @@ let people know that your code is using the happiness style.
 ## Learn more
 
 For the full listing of rules, editor plugins, FAQs, and more, visit the main
-[JavaScript Happiness Style repo](https://github.com/hanakin/sane).
+[JavaScript Sane Style repo](https://github.com/hanakin/sane).
 
 ## License
 
