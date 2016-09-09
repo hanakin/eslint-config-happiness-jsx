@@ -3,12 +3,12 @@
 [![npm][npm-image]][npm-url]
 [![downloads][downloads-image]][downloads-url]
 
-[travis-image]: https://img.shields.io/travis/hanakin/eslint-config-sane-standard-jsx/master.svg
-[travis-url]: https://travis-ci.org/hanakin/eslint-config-sane-standard-jsx
-[npm-image]: https://img.shields.io/npm/v/eslint-config-sane-standard-jsx.svg
-[npm-url]: https://npmjs.org/package/eslint-config-sane-standard-jsx
-[downloads-image]: https://img.shields.io/npm/dm/eslint-config-sane-standard-jsx.svg
-[downloads-url]: https://npmjs.org/package/eslint-config-sane-standard-jsx
+[travis-image]: https://img.shields.io/travis/hanakin/eslint-config-sane-jsx/master.svg
+[travis-url]: https://travis-ci.org/hanakin/eslint-config-sane-jsx
+[npm-image]: https://img.shields.io/npm/v/eslint-config-sane-jsx.svg
+[npm-url]: https://npmjs.org/package/eslint-config-sane-jsx
+[downloads-image]: https://img.shields.io/npm/dm/eslint-config-sane-jsx.svg
+[downloads-url]: https://npmjs.org/package/eslint-config-sane-jsx
 
 #### An ESLint [Shareable Config](http://eslint.org/docs/developer-guide/shareable-configs) for JSX support in [JavaScript Sane Style](https://github.com/hanakin/sane-standard)
 
@@ -19,7 +19,7 @@ This module is for advanced users. You probably want to use [`sane-standard`](ht
 ## Install
 
 ```bash
-npm install eslint-config-sane-standard-jsx
+npm install eslint-config-sane-jsx
 ```
 
 ## Usage
@@ -29,7 +29,7 @@ You can learn more about
 [Shareable Configs](http://eslint.org/docs/developer-guide/shareable-configs) on the
 official ESLint website.
 
-This Shareable Config adds extra JSX style rules to the baseline JavaScript Happiness Style
+This Shareable Config adds extra JSX style rules to the baseline JavaScript Sane Style
 rules provided in
 [`eslint-config-sane-standard`](https://www.npmjs.com/package/eslint-config-sane-standard).
 It doesn't assume that you're using React, so other virtual DOM libraries like
@@ -42,14 +42,14 @@ JSX rules.
 Here's how to install everything you need:
 
 ```bash
-npm install eslint-config-sane-standard eslint-config-sane-standard-jsx eslint-plugin-react
+npm install eslint-config-sane-standard eslint-config-sane-jsx eslint-plugin-react
 ```
 
 Then, add this to your .eslintrc file:
 
 ```
 {
-  "extends": ["sane-standard", "sane-standard-jsx"]
+  "extends": ["sane-standard", "sane-jsx"]
 }
 ```
 
@@ -84,7 +84,7 @@ let people know that your code is using the happiness style.
 
 ## Learn more
 
-For the full listing of rules, editor plugins, FAQs, and more, visit the main
+For the full listing of rules visit the main
 [JavaScript Sane Style repo](https://github.com/hanakin/sane-standard).
 
 ## License
