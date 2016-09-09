@@ -1,13 +1,13 @@
 {
-  "name": "eslint-config-sane-jsx",
-  "description": "JavaScript Sane Style JSX support - ESLint Shareable Config",
+  "name": "eslint-config-sane-standard-jsx",
+  "description": "JavaScript Sane Standard Style JSX support - ESLint Shareable Config",
   "version": "1.0.0",
   "author": {
     "name": "Mike Miday",
     "email": "hanakin.dev@gmail.com"
   },
   "bugs": {
-    "url": "https://github.com/hanakin/eslint-config-sane-jsx/issues"
+    "url": "https://github.com/hanakin/eslint-config-sane-standard-jsx/issues"
   },
   "peerDependencies": {
     "eslint": "^2.1.0",
@@ -18,10 +18,11 @@
     "eslint-plugin-react": ">=2.7.1",
     "tape": "^4.0.0"
   },
-  "homepage": "https://github.com/wesleytodd/eslint-config-sane-jsx",
+  "homepage": "https://github.com/wesleytodd/eslint-config-sane-standard-jsx",
   "keywords": [
     "standard",
     "sane",
+    "sane-standard",,
     "style checker",
     "code style",
     "code checker",
@@ -44,9 +45,10 @@
     "checker",
     "code standards",
     "JavaScript Standard Style",
-    "JavaScript Sane Style",
+    "JavaScript Sane Standard Style",
     "standard style",
     "sane style",
+    "sane-standard style",
     "jsx"
   ],
   "license": "MIT",
